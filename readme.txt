@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 Git is bad 
+GIt is free  software under the GPL
